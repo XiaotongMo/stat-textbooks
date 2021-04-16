@@ -12,8 +12,13 @@ I wish public data will help you and others.
 希望公开数据能惠及大家。
 
 ## Books
+主要是中文书籍。
+
 ### 复杂数据统计方法——基于R的应用（第三版） 吴喜之
 [数据](/WU-FZ3-2015-data.zip)
 
 ### 统计学——从概念到数据分析（第二版）吴喜之
 [数据](/WU-TJX-2016-data.rar)
+
+### 统计学  付金会
+[数据](/FU-TJX-2017-data.rar)
