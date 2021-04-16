@@ -6,5 +6,6 @@ Data and codes for some excellent textbooks are public and shared in this reposi
 
 ## Books
 ### 复杂数据统计方法（第三版）——吴喜之
+[数据](/WU-FZ3-2015-data.zip)
 
 ###
