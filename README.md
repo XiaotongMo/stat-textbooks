@@ -22,3 +22,6 @@ I wish public data will help you and others.
 
 ### 统计学  付金会
 [数据](/FU-TJX-2017-data.rar)
+
+### 卫生统计学 赵耐青 高等教育出版社 2008
+[数据和代码](/ZHAO-WSTJ-2008-data%26codes.zip)
