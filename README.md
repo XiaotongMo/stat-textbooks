@@ -34,3 +34,11 @@ I wish public data will help you and others.
 
 ### 统计学  付金会 2017
 [数据](/FU-TJX-2017-data.rar)
+
+## 网站练习数据
+### DATACAMP - Introduction to SQL
+[数据和代码](/films.sql)
+
+
+
+如果你有一些你认为值得分享的书籍的数据（或代码），请联系我:)-
