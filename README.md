@@ -1,4 +1,4 @@
-## Archiving data and codes for textbooks 教材数据与代码
+## Archiving data and codes for statistics textbooks 统计学教材数据与代码
 
 
 Data and codes for some excellent textbooks are public and shared in this repository. Some of them are purchased on some websites and some of them are shared by other data science learners like me. I wish it will help many learners like me.
