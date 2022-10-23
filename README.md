@@ -41,4 +41,4 @@ I wish public data will help you and others.
 
 
 
-如果你有一些你认为值得分享的书籍的数据（或代码），请联系我:) plz email to: jasmine_xtmo@outlook.com
+如果你有一些你认为值得分享的书籍的数据（或代码），请联系我:)
