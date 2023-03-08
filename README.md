@@ -39,7 +39,11 @@ I wish public data will help you and others.
 [数据](/FU-TJX-2017-data.rar)
 
 ## SAS
+### SAS统计分析与编程实践
 [数据](/MA-SAS-2020.rar)
+
+### 医学案例统计分析与SAS应用 冯国双
+[代码](/FENG-YXALTJFX-SAS.rar)
 
 ## 网站练习数据
 ### DATACAMP - Introduction to SQL
